@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gh-pages/static/css/main.8cb15551.css",
+    "main.js": "/gh-pages/static/js/main.efea55d5.js",
+    "static/js/787.e8871c4f.chunk.js": "/gh-pages/static/js/787.e8871c4f.chunk.js",
+    "static/media/nightsky.jpg": "/gh-pages/static/media/nightsky.d796dfa17ece003c827c.jpg",
+    "static/media/JDCVcirc1.png": "/gh-pages/static/media/JDCVcirc1.ec555d3dbf8f20c918e2.png",
+    "index.html": "/gh-pages/index.html",
+    "main.8cb15551.css.map": "/gh-pages/static/css/main.8cb15551.css.map",
+    "main.efea55d5.js.map": "/gh-pages/static/js/main.efea55d5.js.map",
+    "787.e8871c4f.chunk.js.map": "/gh-pages/static/js/787.e8871c4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cb15551.css",
+    "static/js/main.efea55d5.js"
+  ]
+}
